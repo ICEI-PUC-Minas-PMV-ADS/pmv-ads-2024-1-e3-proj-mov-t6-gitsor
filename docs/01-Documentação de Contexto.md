@@ -26,8 +26,11 @@ Esses objetivos específicos contribuem para alcançar o objetivo geral de desen
 ## Justificativa
 
  A crescente adoção de plataformas de versionamento como Git e GitHub nas práticas educacionais evidencia a necessidade de estratégias eficazes para acompanhar e avaliar o progresso dos alunos. Diante do desafio imposto pela alta demanda de tarefas e alunos, aliado à complexidade de avaliação individualizada, torna-se imperativo adotar ferramentas que otimizem e aprimorem esse processo de acompanhamento pedagógico.
-Neste contexto, a integração do Git com sistemas de gestão educacional representa uma solução promissora para mitigar as lacunas existentes. Ao possibilitar o monitoramento contínuo das contribuições dos alunos, o gestor educacional pode obter insights valiosos sobre o desempenho individual e coletivo, além de identificar eventuais obstáculos no processo de aprendizagem.
- A análise do histórico de commits, pull requests e outras atividades registradas no Git oferece uma visão abrangente do engajamento dos alunos, permitindo ao professor identificar padrões, fornecer feedback personalizado e ajustar suas estratégias de ensino conforme necessário (Hamilton, 2019). Além disso, a geração automática de relatórios de atividades proporciona uma avaliação mais objetiva e transparente, facilitando a comunicação entre alunos e professores e promovendo uma cultura de accountability no ambiente acadêmico.
+ 
+ Neste contexto, a integração do Git com sistemas de gestão educacional representa uma solução promissora para mitigar as lacunas existentes. Ao possibilitar o monitoramento contínuo das contribuições dos alunos, o gestor educacional pode obter insights valiosos sobre o desempenho individual e coletivo, além de identificar eventuais obstáculos no processo de aprendizagem.
+ 
+ A análise do histórico de commits, pull requests e outras atividades registradas no Git oferece uma visão abrangente do engajamento dos alunos, permitindo ao professor identificar padrões, fornecer feedback personalizado e ajustar suas estratégias de ensino conforme necessário . Além disso, a geração automática de relatórios de atividades proporciona uma avaliação mais objetiva e transparente, facilitando a comunicação entre alunos e professores e promovendo uma cultura de accountability no ambiente acadêmico.
+ 
 Dessa forma, ao investir em soluções tecnológicas que integrem o Git com sistemas de gestão educacional, as instituições de ensino podem aprimorar significativamente o acompanhamento e a avaliação das atividades dos alunos, promovendo uma experiência de aprendizagem mais eficaz e satisfatória para todos os envolvidos.
 
 
