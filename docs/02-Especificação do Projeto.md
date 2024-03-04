@@ -79,8 +79,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A plataforma deve permitir ao usuário cadastrar uma conta | ALTA | 
+|RF-002| O sistema deve ser capaz de sincronizar automaticamente as informações dos repositórios do Git com os perfis dos alunos e professores no sistema de gestão educacional, garantindo que as atualizações sejam refletidas em tempo real | ALTA |
+|RF-003| O sistema deve ser capaz de gerar relatórios automáticos que detalham as atividades realizadas pelos alunos nos repositórios do Git, incluindo commits, pull requests, e issues abertas e fechadas | MÉDIA |
+|RF-004| Os usuários devem receber notificações automáticas sobre atividades relevantes nos repositórios do Git, como novos commits, pull requests e comentários em issues, para manter todos os envolvidos informados sobre o progresso do trabalho | MÉDIA |
 
 ### Requisitos não Funcionais
 
